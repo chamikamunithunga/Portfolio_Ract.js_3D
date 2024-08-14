@@ -25,27 +25,7 @@ Customizable: Easily update the content to showcase your latest projects.
 
 Dark Theme: Modern and professional dark-themed UI.
 
-Installation
--------------
-Clone the repository:
-bash
-Copy code
-git clone https://github.com/yourusername/react-3d-portfolio.git
-Navigate to the project directory:
-bash
-Copy code
-cd react-3d-portfolio
-Install dependencies:
-bash
-Copy code
-npm install
-Usage
-Start the development server:
-bash
-Copy code
-npm start
-Open your browser and go to http://localhost:3000 to view the portfolio.
-Technologies Used
+
 ------------------
 React.js - The core framework for building the portfolio.
 
